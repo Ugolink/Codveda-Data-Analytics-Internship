@@ -77,6 +77,7 @@ The main objectives were to:
 The project uses a social media dataset as the basis for sentiment analysis and visualization.
 
 The dataset supports the exploration of sentiment categories, platform activity, monthly posting patterns, engagement metrics, and geographical distribution.
+![View the Social Media Dataset](Social%20Media%20Datasets.png)
 
 ### Dataset Information
 
