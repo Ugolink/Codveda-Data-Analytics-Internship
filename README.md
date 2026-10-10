@@ -1,5 +1,3 @@
-# Codveda-Data-Analytics-Internship
-
 # 📊 Social Media Sentiment Analysis Dashboard
 ### 🚀 Codveda Data Analytics Internship | Microsoft Power BI
 
@@ -20,7 +18,7 @@ The Social Media Sentiment Analysis Dashboard presents an overview of social med
 
 Developed using Microsoft Power BI, the dashboard brings these metrics together in one visual reporting interface.
 
-![Social Media Sentiment Analysis Dashboard](YOUR-EXACT-IMAGE-FILENAME.png)
+![Social Media Sentiment Analysis Dashboard](Social%20Media%20Dashboard.png)
 
 ---
 
